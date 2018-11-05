@@ -1,0 +1,15 @@
+﻿## Interface: 80000
+## X-Min-Interface: 80000
+## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Voicepack Qiu|r
+## Title-zhCN:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0球儿语音包|r
+## Title-zhTW:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0球兒語音包|r
+## DefaultState: enabled
+## RequiredDeps: DBM-Core
+## Author: Qiu, Mini_Dragon
+## Version: 20181014
+## Notes: http://www.qiuqiujiejie.com
+## X-DBM-Voice: 1
+## X-DBM-Voice-Name: 球儿(普通话女)
+## X-DBM-Voice-ShortName: Qiu
+## X-DBM-Voice-Version: 8
+## X-DBM-Voice-HasCount: 1
